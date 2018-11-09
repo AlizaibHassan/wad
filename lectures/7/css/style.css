@@ -1,0 +1,14 @@
+#main {
+    /* add CSS here */
+    margin: auto;
+    max-width: 400px;
+}
+.pet {
+
+	border-radius: 25px;
+    border: dotted;
+    cursor: copy;
+    border-color: #fa0464;
+    box-shadow: 11px 12px 7px 2px grey;
+    cursor: pointer;
+}
