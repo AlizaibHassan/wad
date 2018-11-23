@@ -1,0 +1,57 @@
+
+[class*='c-']{
+width: 100%;
+float: left;
+}
+
+img:hover{
+	-moz-box-shadow: 1px 1px 5px #999;
+	-webkit-box-shadow: 1px 1px 5px #999;
+	box-shadow: 1px 1px 5px #999;
+	-webkit-transition: all .2s ease;
+	transition: all .2s ease;
+}
+@media only screen and (min-width: 500px) {
+
+	.c-scrn-1 {
+
+		width: 50%
+
+	}
+
+}
+
+@media only screen and (min-width: 700px) {
+
+	.c-scrn-2 {
+		width: 33.33%
+	}
+
+}
+
+
+@media only screen and (min-width: 900px) {
+
+	.c-scrn-3 {
+		width: 25%
+	}
+
+}
+
+
+@media only screen and (min-width: 1100px) {
+
+	.c-scrn-4 {
+		width: 16.66%
+	}
+
+}
+
+
+@media only screen and (min-width: 1100px) {
+
+	.c-scrn-5 {
+		width: 16.66%
+	}
+
+}
