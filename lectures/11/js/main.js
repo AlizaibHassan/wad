@@ -168,7 +168,11 @@ function isDone(e) {
     localStorage.setItem('todo',JSON.stringify(todos));
     show();
 }
-show();*/
+show();
+
+// this function is add in list and not clearing anything at referesh + delete is working.
+
+*/
 
 
 
