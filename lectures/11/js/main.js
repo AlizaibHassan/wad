@@ -37,7 +37,11 @@ function show() {
         ul.appendChild(li);
     }
     document.getElementById('todos').appendChild(ul);
-}*/
+}
+
+// this function is doing the same thing but showing values in new line using li tag everytime and disappears on referesh
+
+*/
 
 
 //============================================
