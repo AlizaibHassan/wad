@@ -2,14 +2,17 @@
 //-----------  STEP - 1 ----------------------
 //============================================
 
+/*
 
-/*var todos = [];
+var todos = [];
 function add() {
     var task = document.getElementById("task").value;
     todos.push(task);
     document.getElementById('todos').innerText = todos;
-}*/
+}
 
+//this function is saving the text given in input and show us on page but text disappeaers when page is refereched.
+*/
 
 //============================================
 //-----------  STEP - 2 ----------------------
