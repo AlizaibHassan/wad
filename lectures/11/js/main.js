@@ -48,7 +48,6 @@ function show() {
 //-----------  STEP - 3 ----------------------
 //============================================
 
-
 /*
 function getTodos() {
     var todos = [];
@@ -91,8 +90,8 @@ function show() {
     document.getElementById('todos').appendChild(ul);
 }
 show();
-*/
 
+// its adding items to list in new line and saving them on refresh its not clearing.*/
 
 
 //============================================
